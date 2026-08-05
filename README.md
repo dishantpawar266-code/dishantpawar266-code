@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dishant Pawar</h1>
+[!MasterHead](https://www.magnific.com/free-photos-vectors/machine-learning-engineer-linkedin-banner)<h1 align="center">Hi 👋, I'm Dishant Pawar</h1>
 <h3 align="center">B.Tech AI & ML Student | DSA Enthusiast | Python Developer | Exploring Machine Learning, Data Science & Generative AI</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Agriledger - AI based Agriculture helper full stack project**
