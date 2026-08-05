@@ -1,4 +1,5 @@
-[!MasterHead](https://wallpaperaccess.com/full/9247047.jpg)Hi 👋, I'm Dishant Pawar</h1>
+<image align="center" alt="banner" width ="600" src = "https://wallpaperaccess.com/full/9247047.jpg"> 
+Hi 👋, I'm Dishant Pawar</h1>
 <h3 align="center">B.Tech AI & ML Student | DSA Enthusiast | Python Developer | Exploring Machine Learning, Data Science & Generative AI</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Agriledger - AI based Agriculture helper full stack project**
