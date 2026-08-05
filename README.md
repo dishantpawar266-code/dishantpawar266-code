@@ -2,6 +2,7 @@
 Hi 👋, I'm Dishant Pawar</h1>
 <h3 align="center">B.Tech AI & ML Student | DSA Enthusiast | Python Developer | Exploring Machine Learning, Data Science & Generative AI</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- I'm Currently developing expertise in Python, Data Structures & Algorithms, Machine Learning, Deep Learning, Generative AI, Agentic AI, Computer Vision, and Natural Language Processing (NLP) through continuous learning and hands-on projects.**
 - 🔭 I’m currently working on **Agriledger - AI based Agriculture helper full stack project**
 
 - 🌱 I’m currently learning **MYSQL,Firebas, Supabase,docker,aws,NumPy, Pandas, Matplotlib Scikit-learn ,Deep Learning TensorFlow Keras PyTorch**
