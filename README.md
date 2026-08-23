@@ -25,6 +25,7 @@
 I'm a **B.Tech Artificial Intelligence & Machine Learning student** passionate about building practical software, solving algorithmic problems, and exploring intelligent systems.
 
 * 🎓 B.Tech AIML Student at **RCPIT, Shirpur**
+* ⭐ Club Data Polaris **Technical Team Member**
 * 🐍 Focused on **Python Development**
 * 🧠 Strengthening **Data Structures & Algorithms**
 * 🤖 Exploring **Machine Learning & Generative AI**
@@ -173,24 +174,6 @@ Completed the C programming foundation track and strengthened core programming f
 Currently exploring **Machine Learning, Generative AI and intelligent automation systems**.
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dishantpawar266-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantpawar266-code&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dishantpawar266-code&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🐍 Contribution Graph
 
 <p align="center">
@@ -212,43 +195,6 @@ Currently exploring **Machine Learning, Generative AI and intelligent automation
 * [ ] Get an industry internship
 * [ ] Prepare consistently for GATE CSE
 * [ ] Build a strong developer portfolio
-
----
-
-# 📈 My Developer Journey
-
-```text
-             🚀 DEVELOPER JOURNEY
-
-                  C
-                  │
-                  ▼
-            Java & OOP
-                  │
-                  ▼
-             Python
-                  │
-                  ▼
-               DSA
-                  │
-                  ▼
-          SQL & Databases
-                  │
-                  ▼
-        Web Development
-                  │
-                  ▼
-             AI / ML
-                  │
-                  ▼
-        Generative AI 🤖
-                  │
-                  ▼
-       Real-World Projects
-                  │
-                  ▼
-        Industry Ready 💼
-```
 
 ---
 
