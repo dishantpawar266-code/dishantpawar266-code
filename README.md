@@ -92,7 +92,7 @@ A centralized platform designed to connect **students, faculty and college clubs
 * 📝 Assignments & Quizzes
 * 📢 Notices & Announcements
 * 📅 Study Planner
-* 🤖 AI Assistant — Future Enhancement
+* 🤖 AI Assistant — Powered By Ollama 
 
 **Tech Stack**
 
